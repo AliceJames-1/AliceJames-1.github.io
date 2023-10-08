@@ -1,8 +1,9 @@
-# AliceJames-1.github.io
-Alice James's Research &amp; Projects
+# AvishkarSeth.github.io
 
-I am a Research Scholar at Macquarie University. I am grateful for my experience in the domain of Sensors, Autonomous Vehicles, IoT, Product Design, and Machine learning. 
-As I have now embarked on this journey of research and development at Macquarie University, I am excited and eager to dive deep into research and learn more.
-With a growing skillset encompassing the facets of Autonomous Vehicles and Machine learning, I am looking for exciting Research opportunities in the same!
+Avishkar Seth's Research &amp; Projects
 
-ROS | Robotics | Autonomous Bots | IoT | Drones
+As an engineer born in Mumbai, I've always been passionate about technology. At the [MQ Drone Lab](https://www.mqdronelab.com/)
+in Sydney, I'm living my dream of putting autonomy into drones and robots. When not tinkering with sensors and code, 
+I'm strumming my guitar, travelling to new places, and seeking unique experiences. Sharing my love for tech 
+and teaching Mechatronics and IoT to students fuels my soul. Sci-fi movies may be fantasy, but with each new 
+drone or robot I create, I'm bringing more of that future into reality.
