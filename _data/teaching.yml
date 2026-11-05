@@ -1,0 +1,98 @@
+# Courses and mentoring on the Teaching page, in display order.
+- role: Co-Designer & Co-Instructor
+  title: MTRN4068 Wireless Mechatronics
+  url: https://unitguides.mq.edu.au/unit_offerings/149936/unit_guide
+  dates: July 2020 - Present
+  description: Co-designed and co-taught an advanced undergraduate course focused on hands-on experience designing, building, and programming mobile robots using ROS. Lab sessions aim to develop student skills in ROS, computer vision, motor control, sensor integration, mapping, localization, and navigation.
+  item_class: resume-item pb-0
+  row_style: 'margin-bottom: 40px;'
+  gallery_style: 'display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-content: flex-start;'
+  img_style: 'border-radius: 12px; object-fit: cover;'
+  images:
+  - src: assets/img/teaching/mtrn4068_img.webp
+    width: 45%
+    alt: MTRN4068 small-scale autonomous vehicle project
+  - src: assets/img/teaching/Design of a Small Scale Autonomous Vehicle - MTRN4068.webp
+    width: 45%
+    alt: 'Poster: Design of a Small Scale Autonomous Vehicle, MTRN4068'
+  - src: assets/img/teaching/mtrn4068_img_2.webp
+    width: 45%
+    alt: MTRN4068 small-scale autonomous vehicle project
+  - src: assets/img/morepages/mecqabots/mecqabots_icst.webp
+    width: 45%
+    alt: MecQaBot student team at ICST
+- role: Co-Designer & Co-Instructor
+  title: ENGG4201/8201 IoT System Design
+  url: https://unitguides.mq.edu.au/unit_offerings/149908/unit_guide
+  dates: Feb 2021 - Present
+  description: Co-designed and co-taught an advanced course that provides hands-on experience in designing, building, and programming sensor networks and IoT projects. Lab sessions focus on skill development in sensor integration, web design, data analysis, and machine learning in IoT applications.
+  item_class: resume-item pb-0
+  row_style: 'margin-bottom: 40px;'
+  gallery_style: 'display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-content: flex-start;'
+  img_style: 'border-radius: 12px; object-fit: cover;'
+  images:
+  - src: assets/img/teaching/iot_system_trackink.webp
+    width: 30%
+    alt: 'IoT System Design project: sensor tracking'
+  - src: assets/img/teaching/iot_system_vehicle2023.webp
+    width: 50%
+    alt: 'IoT System Design project: connected vehicle'
+  - src: assets/img/teaching/iot_system_beebottle.webp
+    width: 50%
+    alt: 'IoT System Design project: bee bottle monitor'
+- role: Lecturer, Unit Convenor and Teaching Assistant
+  title: COMP8291 IoT Embedded Operating Systems and Application Programming
+  url: https://unitguides.mq.edu.au/unit_offerings/163122/unit_guide
+  dates: July 2024 - Present
+  description: Worked as a Lecturer, Unit Convenor and Teaching Assistant where the unit investigates the Embedded OS internals by examining key concepts such as kernel architecture and threads, device models, interfaces and drivers, system calls, kernel, filesystem, and system utilities.
+  item_class: resume-item pb-0
+  row_style: 'margin-bottom: 40px;'
+  gallery_style: 'display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-content: flex-start;'
+  img_style: 'border-radius: 12px; object-fit: cover;'
+  images:
+  - src: assets/img/teaching/comp8291_pics.webp
+    width: 80%
+    alt: COMP8291 embedded operating systems lab
+- role: Mentor
+  title: School of Engineering & Computing, Macquarie University
+  url: new_pages/mentor_students.html
+  dates: Feb 2021 – Present
+  description: Co-supervise undergraduate and postgraduate students, providing mentorship and support in their research projects.
+  item_class: resume-item pb-0
+  row_style: 'margin-bottom: 40px;'
+  gallery_style: 'display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-content: flex-start;'
+  img_style: 'border-radius: 12px; object-fit: cover;'
+  new_tab: true
+  more_url: new_pages/mentor_students.html
+  images:
+  - src: assets/img/news/volun_alice.webp
+    width: 70%
+    alt: Student mentoring at Macquarie University
+- role: Teaching Assistant
+  title: ENGG2000/3000 Engineering Project Practice
+  url: https://unitguides.mq.edu.au/unit_offerings/129626/unit_guide
+  dates: July 2022 - November 2022
+  description: Worked as a Teaching Assistant for the sixth SPINE unit, a curriculum designed to cultivate professional acumen, transferable competencies, and employability. The unit blends online modules with hands-on, project-based learning activities and is co-facilitated by a team of academic experts.
+  item_class: resume-item pb-0
+  row_style: 'margin-bottom: 40px;'
+  gallery_style: 'display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-content: flex-start;'
+  img_style: 'border-radius: 12px; object-fit: cover;'
+  images:
+  - src: assets/img/teaching/ENGGG3000_V2.webp
+    width: 50%
+    alt: ENGG2000/3000 Engineering Project Practice
+  divider_before: true
+- role: Teaching Assistant
+  title: ENGG1000 Introduction to Engineering
+  url: https://unitguides.mq.edu.au/unit_offerings/153902/unit_guide
+  dates: July 2021 - November 2021
+  description: Worked as a Teaching Assistant for the first SPINE unit, a curriculum designed to cultivate professional acumen, transferable competencies, and employability. The unit gives an Introduction to Engineering by engaging students with a mix of theory and practials on the fundamental concepts
+    of Engineering.
+  item_class: resume-item pb-0
+  row_style: 'margin-bottom: 40px;'
+  gallery_style: 'display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-content: flex-start;'
+  img_style: 'border-radius: 12px; object-fit: cover;'
+  images:
+  - src: assets/img/logo/macquarielogo.png
+    width: 50%
+    alt: Macquarie University logo

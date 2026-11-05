@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alicejames-1.github.io/sitemap.xml
