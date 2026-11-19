@@ -96,12 +96,13 @@
 - id: teaching
   name: Teaching and mentoring
   headline: Building the next generation of roboticists.
-  summary: Courses in robotics and IoT, and mentoring the student team that won the 2026 Droid Racing Challenge.
+  summary: Taught robotics and IoT until July 2026, and mentors the team that won the 2026 Droid Racing Challenge.
   body: >-
-    The best part of a lab is the people who learn in it. Teaching embedded systems, IoT and
-    mobile robotics at Macquarie, and mentoring student teams who build things that move.
+    The best part of a lab is the people who learn in it. Embedded systems, IoT and mobile
+    robotics at Macquarie from 2020 to July 2026, and mentoring for student teams who build
+    things that move.
   facts:
-    - MTRN4068 Wireless Mechatronics, ENGG4201/8201 IoT System Design and COMP8291 Embedded Operating Systems
+    - MTRN4068 Wireless Mechatronics and COMP8291 Embedded Operating Systems until July 2026, ENGG4201/8201 IoT System Design until 2025
     - Mentor to the MQ Robotics Club, winners of the QUT Droid Racing Challenge 2026
     - Mentor to the Drone Society and MARS Rover teams, and supervisor of honours and masters theses
     - Graduate speaker at her 2025 PhD graduation

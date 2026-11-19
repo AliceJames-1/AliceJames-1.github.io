@@ -4,7 +4,7 @@
 - role: Co-Designer & Co-Instructor
   title: MTRN4068 Wireless Mechatronics
   url: https://unitguides.mq.edu.au/unit_offerings/149936/unit_guide
-  dates: July 2020 – Present
+  dates: July 2020 – July 2026
   description: Co-designed and co-taught an advanced undergraduate course focused on hands-on experience designing, building, and programming mobile robots using ROS. Lab sessions aim to develop student skills in ROS, computer vision, motor control, sensor integration, mapping, localization, and navigation.
   images:
   - src: assets/img/teaching/mtrn4068_img.webp
@@ -30,15 +30,15 @@
 - role: Lecturer, Unit Convenor and Teaching Assistant
   title: COMP8291 IoT Embedded Operating Systems and Application Programming
   url: https://unitguides.mq.edu.au/unit_offerings/163122/unit_guide
-  dates: July 2024 – Present
+  dates: July 2024 – July 2026
   description: Worked as a Lecturer, Unit Convenor and Teaching Assistant where the unit investigates the Embedded OS internals by examining key concepts such as kernel architecture and threads, device models, interfaces and drivers, system calls, kernel, filesystem, and system utilities.
   images:
   - src: assets/img/teaching/comp8291_pics.webp
     alt: COMP8291 embedded operating systems lab
 - role: Mentor
   title: School of Engineering & Computing, Macquarie University
-  url: new_pages/mentor_students.html
-  dates: Feb 2021 – Dec 2025
+  url: /new_pages/mentor_students.html
+  dates: Feb 2021 – Present
   description: Co-supervise undergraduate and postgraduate students, providing mentorship and support in their research projects.
   more_url: /new_pages/mentor_students.html
   images:
