@@ -1,0 +1,74 @@
+# Posts on the Blogs page, newest group first. Add a post by copying an entry.
+# `url` is a page on this site (starting with /) or an outside link; `image` starts from the site root.
+- year: '2026'
+  items:
+  - title: Highlights 2026
+    summary: ADSTAR 2026, visitors from Nanjing, Open Day, and the MQ Robotics Club winning the QUT Droid Racing Challenge.
+    url: /new_pages/highlights_2026.html
+    image: assets/img/highlights_2026/edits_utqut_drc_1.webp
+    alt: The MQ Robotics Club with their Droid Racing Challenge 2026 trophy
+- year: '2025'
+  items:
+  - title: Highlights 2025
+    summary: Field trials on the water, graduation, and a graduate speech.
+    url: /new_pages/highlights_2025.html
+    image: assets/img/highlights_2025/grad3.jpg
+    alt: Graduation celebration, 2025
+- year: '2024'
+  items:
+  - title: ICST 2024, Sydney
+    summary: Presenting MecQaBot at the International Conference on Sensing Technology.
+    url: /new_pages/icst_2024.html
+    image: assets/img/morepages/icst24/icst1.webp
+    alt: Presenting at ICST 2024 in Sydney
+  - title: ACM MobiCom 2024
+    summary: The MQ Drone Lab's trip to ACM MobiCom 2024.
+    url: /new_pages/mobicom_2024.html
+    image: assets/img/morepages/mobicom24/mobicom1.webp
+    alt: The MQ Drone Lab at ACM MobiCom 2024
+  - title: QUT Droid Racing Challenge 2024
+    summary: How the MQ Robotics Club took 3rd place at the QUT Droid Racing Challenge.
+    url: /new_pages/QUT_DRC_2024.html
+    image: assets/img/morepages/qut_murc/team2.jpg
+    alt: The MQ Robotics Club team at the QUT Droid Racing Challenge 2024
+  - title: MQ Open Day 2024
+    summary: Drones, demos and a lot of curious visitors at Macquarie Open Day.
+    url: /new_pages/open_day_2024.html
+    image: assets/img/morepages/open_day_2024/EWK_1261.webp
+    alt: Drone demonstration at MQ Open Day 2024
+  - title: ACM MobiSys DroNet 2024, Tokyo
+    summary: The MQ Drone Lab's trip to the DroNet workshop in Tokyo.
+    url: /new_pages/DroNet_2024_tokyo.html
+    image: assets/img/morepages/Dronet2024/dronet1.webp
+    alt: The MQ Drone Lab at ACM MobiSys DroNet 2024 in Tokyo
+  - title: MQ HDR Conference 2024
+    summary: Presenting at the Macquarie higher degree research conference.
+    url: /new_pages/HDR_MQ.html
+    image: assets/img/morepages/hdrmq24/hdr1.jpeg
+    alt: At the MQ HDR Conference 2024
+- year: '2023'
+  items:
+  - title: MQ Drone Lab Industry Workshop
+    summary: The lab's first industry workshop, November 2023.
+    url: /new_pages/inds_ws_24.html
+    image: assets/img/morepages/Industry_ws_pics/IMG-20231122-WA0040.jpg
+    alt: The MQ Drone Lab industry workshop, November 2023
+- year: '2020'
+  items:
+  - title: 'IoT-enabled sensor node: a tutorial'
+    summary: IoT sensor nodes, LoRaWAN and how data travels from sensor to cloud.
+    url: /new_pages/IoT_enabled_tut_2020.html
+    image: assets/img/morepages/IoT_enabled_project1/An array of modern IoT sensor nodes deployed in an urban smart city environment, with visible elements like small sensor devices, wireless signals ind.webp
+    alt: Illustration of IoT sensor nodes in a smart city
+  - title: Big Data Society Hackathon, 2nd place
+    summary: AI-enabled education challenge, Sydney, March 2020.
+    url: https://data-science-group.github.io/BigDataSociety/Hackathon/2020-03/index.html
+    image: assets/img/news/big_data_hackathon.webp
+    alt: Big Data Society hackathon, Sydney 2020
+- year: Earlier
+  items:
+  - title: Highlights and history
+    summary: Older memories from the drone lab.
+    url: /new_pages/highlights_misc.html
+    image: assets/img/Misc_Old/drone_lab_2023_v2.webp
+    alt: The drone lab in 2023

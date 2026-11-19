@@ -1,28 +1,22 @@
 # Main navigation. `id` is matched against `nav:` in each page's front matter.
 - id: home
   label: "Home"
-  url: "/index.html"
+  url: "/"
 - id: about
   label: "About"
-  title: "About"
-  url: "/about.html#about"
+  url: "/about.html"
 - id: research
   label: "Research"
-  title: "Research"
-  url: "/research.html#research"
+  url: "/research.html"
 - id: teaching
   label: "Teaching"
-  title: "Teaching"
-  url: "/teaching.html#teaching"
+  url: "/teaching.html"
 - id: volunteering
   label: "Volunteering"
-  title: "Volunteering"
-  url: "/volunteering.html#volunteering"
+  url: "/volunteering.html"
 - id: tutorials
-  label: "Tutorials"
-  title: "Tutorials & Blogs"
-  url: "/tutorials.html#tutorials"
+  label: "Blogs"
+  url: "/tutorials.html"
 - id: portfolio
   label: "Portfolio"
-  title: "Portfolio"
   url: "https://alicejames-1.github.io/portfolio/"

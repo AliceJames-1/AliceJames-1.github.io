@@ -18,12 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Dr Alice James
+title: Alice James
 email: alice.james@mq.edu.au
 description: "Dr Alice James, Senior Research Officer (Robotics and Drone Systems) at Macquarie University's Advanced Drone Systems Research Centre. Aerial robot autonomy, avionics and sensing systems."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://alicejames-1.github.io"
 github_username: alicejames-1
+# GoatCounter visitor stats: create an account at goatcounter.com, then uncomment and set its code.
+# goatcounter: alicejames
 
 # Build settings
 theme: minima

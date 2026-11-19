@@ -1,6 +1,6 @@
 # Publications shown on the Research page, newest year first. Add a new paper by copying an entry.
 # `authors` may contain HTML (<b> highlights the lab members); `note` is an optional extra line (e.g. a DOI).
-# Everything else is plain text.
+# Everything else is plain text. `featured: true` also shows a paper under "Selected work" on the home page (keep it to four).
 - year: 2026
   items:
   - title: 'HARP: Handoff-Aware Recovery Planning for Active Target Acquisition in Multi-UAV Handoff'
@@ -25,6 +25,7 @@
     image: assets/img/research/daus_2026.webp
     alt: Cooperative UAV Payload Transport with Autonomous Navigation
   - title: 'ModCAM: Scalable Multi-UAV System for Cooperative Aerial Manipulation'
+    featured: true
     kind: Springer Book Chapter
     authors: <b>A. James</b>, <b>A. Seth</b>, E. Kuantama, R. Han, S. Mukhopadhyay
     venue: Novel Sensing for Robotics and Drones
@@ -62,15 +63,8 @@
     url: https://doi.org/10.48550/arXiv.2506.11400
     image: assets/img/research/drone_testing_pipeline.webp
     alt: Robust Autonomous Drone Testing Pipeline Guide
-  - title: Multi-Modal Coordinated Sensing for Spatially-Aware Marine Monitoring
-    kind: IEEE SusTech 2026
-    authors: E. Kuantama, <b>A. James</b>, <b>A. Seth</b>, N. Hou, M. Bishop
-    venue: 2026 IEEE Conference on Technologies for Sustainability (SusTech)
-    url: https://ieeexplore.ieee.org/document/11536245
-    image: assets/img/research/CMD.webp
-    alt: Multi-Modal Coordinated Sensing for Spatially-Aware Marine Monitoring
-    note: 'DOI: 10.1109/SUSTECH67720.2026.11536245'
   - title: Continuous Marine Monitoring via Autonomous UAV Handoff
+    featured: true
     kind: ACM MobiSys 2025
     authors: H. Kim, <b>A. James</b>, <b>A. Seth</b>
     venue: International Conference on Mobile Systems
@@ -100,6 +94,7 @@
     url: https://doi.org/10.1145/3666025.3699425
     alt: Poster on cooperative UAV sensor fusion for load transport
   - title: 'FlyCount: High-Speed Counting Using Neuromorphic Sensors'
+    featured: true
     kind: IEEE Sensors Journal 2024
     authors: <b>A. James</b>, <b>A. Seth</b>, et al.
     venue: Journal Article
@@ -135,6 +130,7 @@
     image: assets/img/research/icarm_cv.webp
     alt: RF-denied Coordination
   - title: Cooperative Drone Delivery with Self Balancing Tray
+    featured: true
     kind: IEEE ICARM 2024
     authors: <b>A. James</b>, <b>A. Seth</b>, et al.
     venue: Advanced Robotics and Mechatronics

@@ -1,0 +1,134 @@
+# The six targets out on the bay on the home page, and the "The work" chapters below it.
+# Same content in both places. Order = order on the page.
+#
+# id        short name, used in links (#mind-<id>) and in the game
+# name      the part of the work this target stands for
+# headline  big line shown first
+# summary   one short line shown in the side panel when a target is acquired in the game
+# body      one or two short paragraphs (HTML allowed)
+# facts     short lines shown as a list (HTML allowed)
+# images    optional: src (from the site root) and alt
+# link      optional: where to go next (url + label)
+# diagram   optional: handoff draws the two-drone target handoff diagram instead of photos
+
+- id: autonomy
+  name: Aerial autonomy
+  headline: Drones that sense, decide and fly themselves.
+  summary: Avionics, onboard computers and the software that makes a drone autonomous.
+  body: >-
+    Every platform starts on the bench: flight controller, onboard computer, sensors and power,
+    wired together and taught to fly without a pilot. Then it goes outside, where the real
+    testing starts.
+  facts:
+    - PX4 and ArduPilot on Pixhawk, with NVIDIA Jetson and Raspberry Pi on board
+    - ROS, sensor fusion (IMU, GNSS, vision) and GPS RTK navigation
+    - Safer autonomous landing, tested with GARL (ICSE 2025) and at DSN 2025
+    - Licensed pilot running flight trials indoors and out
+  images:
+    - src: assets/img/mind/autonomy.webp
+      alt: Three researchers standing behind a large multirotor drone on a grassy field
+  link:
+    url: /about.html
+    label: Full skill set
+
+- id: cooperative
+  name: Cooperative drones
+  headline: Many drones, one payload.
+  summary: Drones that share a load too heavy or awkward for any one of them.
+  body: >-
+    One drone can only lift so much. Several drones working as one can carry a payload none of
+    them could manage alone, if they keep it level and agree on where to go without a central
+    controller.
+  facts:
+    - ModCAM, scalable multi-UAV cooperative aerial manipulation (Springer, 2026)
+    - Cooperative UAV payload transport with autonomous navigation (DAUS 2026)
+    - Cooperative drone delivery with a self-balancing tray (ICARM 2024)
+    - Provisional patent on intelligent, adaptive balanced lift via drone swarms
+    - Chief Investigator on a 2026 grant for anchor-free cooperative payload transfer
+  images:
+    - src: assets/img/mind/cooperative.webp
+      alt: Diagram of two drones carrying one payload, each with a balancer, GPS, flight controller, NVIDIA Jetson and lidar
+  link:
+    url: /research.html
+    label: Read the papers
+
+- id: handoff
+  name: Target handoff
+  headline: Never lose sight of the target.
+  summary: Passing a moving target from one drone to the next without losing it.
+  body: >-
+    A single drone runs out of battery long before the mission ends. The answer is a relay: one
+    drone hands the target to the next in mid-air, and the tracking never stops. The same idea
+    lets drones dock and swap batteries without landing.
+  facts:
+    - PATH, continuous target sensing among cooperative drones (2026 preprint)
+    - HARP, handoff-aware recovery planning for target acquisition (2026 preprint)
+    - Continuous marine monitoring via autonomous UAV handoff (ACM MobiSys 2025)
+    - Synchronised mid-air drone docking (IEEE ROBIO 2025) and AeroBridge (ACM MobiCom 2024)
+    - Researcher on the A$2.24M AEA Innovate project for autonomous drone battery swap
+  diagram: handoff
+  link:
+    url: /research.html
+    label: All research
+
+- id: sensing
+  name: Sensing the sea
+  headline: Eyes above and below the water.
+  summary: Drones, boats and underwater robots that monitor the ocean together.
+  body: >-
+    The ocean is hard to watch: it is big, it moves, and most of it is out of sight. Drones,
+    uncrewed boats and underwater robots each see part of it. Coordinated, they build a picture
+    none could build alone.
+  facts:
+    - Multi-modal coordinated sensing for spatially aware marine monitoring (IEEE SusTech 2026)
+    - Chief Investigator on deep-vision underwater 3D mapping for biodiversity, with Ghent University
+    - Open-water field trials with BlueROV2 and uncrewed surface vessels
+    - FlyCount, high-speed counting with neuromorphic sensors (IEEE Sensors Journal)
+  images:
+    - src: assets/img/mind/sensing.webp
+      alt: Field trials by the water, with the team on the rocks, an underwater robot and an uncrewed boat
+    - src: assets/img/mind/sensing-2.webp
+      alt: Alice James sitting on the rocks beside a BlueROV2 underwater robot at the water's edge
+  link:
+    url: /research.html
+    label: Marine research
+
+- id: teaching
+  name: Teaching and mentoring
+  headline: Building the next generation of roboticists.
+  summary: Courses in robotics and IoT, and mentoring the student team that won the 2026 Droid Racing Challenge.
+  body: >-
+    The best part of a lab is the people who learn in it. Teaching embedded systems, IoT and
+    mobile robotics at Macquarie, and mentoring student teams who build things that move.
+  facts:
+    - MTRN4068 Wireless Mechatronics, ENGG4201/8201 IoT System Design and COMP8291 Embedded Operating Systems
+    - Mentor to the MQ Robotics Club, winners of the QUT Droid Racing Challenge 2026
+    - Mentor to the Drone Society and MARS Rover teams, and supervisor of honours and masters theses
+    - Graduate speaker at her 2025 PhD graduation
+  images:
+    - src: assets/img/mind/teaching.webp
+      alt: The Macquarie University Robotics Club team with their trophy after winning the QUT Droid Racing Challenge 2026
+    - src: assets/img/mind/teaching-2.webp
+      alt: Mentoring students at a table in the drone lab, with drones mounted on the wall behind
+  link:
+    url: /teaching.html
+    label: Courses and mentoring
+
+- id: beyond
+  name: Beyond the lab
+  headline: Curious about everything.
+  summary: Music, photography, travel, games and the universe.
+  body: >-
+    Curiosity does not clock off. I believe the point is to live fully, explore, connect and keep
+    expanding our understanding of people and the universe, and that shapes the way I build.
+  facts:
+    - Music
+    - Photography
+    - Travel
+    - Favourite shows
+    - Gaming
+    - Science and tech
+    - Nature and the universe
+  link:
+    url: https://www.instagram.com/wonder_land.al/
+    label: Photos on Instagram

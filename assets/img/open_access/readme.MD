@@ -1,1 +1,0 @@
-This folder contains all the open access research articles published online.
